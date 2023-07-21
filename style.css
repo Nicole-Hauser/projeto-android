@@ -121,9 +121,9 @@ div#corpo h2 {
   color: #ffffff;
   background-image: linear-gradient(
     to right,
-    #19429c 30%,
-    white 90%,
-    rgba(255, 255, 255, 0.685) 10%
+    #19429c 40%,
+    white 60%,
+    rgba(255, 255, 255, 0.685) 1%
   );
   font-family: "tecnology";
   padding: 5px;
@@ -146,7 +146,7 @@ aside#extra {
   border-radius: 20px;
   padding: 20px;
   padding-top: 0px;
-  margin: 20px;
+  margin: 20px 0px;
 }
 
 aside#extra h3 {
